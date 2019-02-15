@@ -1,4 +1,4 @@
-package chapter04.example4_12.example4_11;
+package chapter04.example4_12;
 
 public class A {
     public void fun() {                                        //在父类中定义的方法

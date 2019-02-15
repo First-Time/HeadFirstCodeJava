@@ -3,7 +3,7 @@ package chapter03.example3_100;
 public class Book {
 
     {
-        System.out.println("【B】Book类的构造方法");
+        System.out.println("【X】Book类的构造方法");
     }
 
     public Book() {

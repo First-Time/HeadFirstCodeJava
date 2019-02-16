@@ -15,7 +15,7 @@ public class SortArray extends Array {          //定义排序子类
 
     /**
      * 因为父类中的getData()方法不能满足排序的操作要求，但为了保存这个方法名称，所以进行覆写
-     * 在本方法中要使用java.util.Arrays.sort()来实现数组的排序操作
+     * 在本方法中要使用java.example8_5.Arrays.sort()来实现数组的排序操作
      * @return 排序后的数据
      */
     @Override

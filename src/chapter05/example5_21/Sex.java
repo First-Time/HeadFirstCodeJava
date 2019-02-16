@@ -6,7 +6,7 @@ public class Sex {
     private static final Sex MALE = new Sex("男");
     private static final Sex FEMALE = new Sex("女");
 
-    public Sex(String title) {
+    private Sex(String title) {
         this.title = title;
         System.out.println(toHexString(1));
     }

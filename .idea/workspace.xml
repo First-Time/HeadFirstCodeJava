@@ -2,33 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0861ac80-e207-4fb2-92b0-2bfe15aad5f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/example5_20/Sex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/example5_20/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/example5_21/Choose.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/example5_21/Sex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter05/example5_21/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_1/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_10/MyMath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_10/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_12/MyMath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_12/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_13/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_14/MyMath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_14/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_15/MyMath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_15/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_16/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_17/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_18/AddException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_18/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_2/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_3/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_5/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_6/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_7/TestDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter06/example6_9/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_1/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_10/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_11/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_13/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_14/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_15/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_16/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_17/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_18/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_19/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_2/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_21/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_22/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_23/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_23/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_24/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_24/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_25/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_25/MessageImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_25/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_26/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_27/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_27/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_29/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_29/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_3/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_30/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_30/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_31/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_31/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_32/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_32/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_32/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_33/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_33/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_33/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_34/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_34/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_35/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_35/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_36/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_36/Sex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_36/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_39/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_39/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_4/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_40/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_40/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_41/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_41/MessageImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_41/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_42/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_42/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_43/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_43/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_46/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_46/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_47/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_47/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_49/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_49/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_5/MyMath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_50/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_50/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_51/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_51/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_52/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_52/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_53/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_53/IMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_53/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_54/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_55/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_56/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_57/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_6/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_7/TestDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_8/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter08/example8_9/TestDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter04/example4_21/SortArray.java" afterPath="$PROJECT_DIR$/src/chapter04/example4_21/SortArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter05/example5_20/Sex.java" afterPath="$PROJECT_DIR$/src/chapter05/example5_20/Sex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter05/example5_21/Sex.java" afterPath="$PROJECT_DIR$/src/chapter05/example5_21/Sex.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,88 +131,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_14/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyMath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_14/MyMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_16/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_17/TestDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter08/example8_55/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter08/example8_56/TestDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/TestDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter08/example8_57/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/AddException.java">
+      <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-              <folding>
-                <element signature="e#1247#1248#0" expanded="true" />
-                <element signature="e#1270#1271#0" expanded="true" />
-                <element signature="e#1663#1664#0" expanded="true" />
-                <element signature="e#1693#1694#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter06/example6_15/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -169,6 +177,7 @@
       <list>
         <option value="Singleton" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -191,6 +200,7 @@
       <find>String</find>
       <find>toArray</find>
       <find>parseBoolean</find>
+      <find>p</find>
     </findStrings>
     <replaceStrings>
       <replace>Object</replace>
@@ -202,57 +212,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter04/example4_06/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_06/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_6/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_7/example4_6/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_7/A.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_7/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_9/example4_7/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_9/A.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_7/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_9/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_9/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_11/example4_7/A.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_11/example4_7/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_11/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_11/A.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_12/example4_11/B.java" />
-        <option value="$PROJECT_DIR$/src/chapter04/example4_12/example4_11/Demo.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/Main.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_20/Sex.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_20/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_21/example5_20/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_21/Choose.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_21/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter05/example5_21/Sex.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_1/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_2/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_3/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_4/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_5/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_6/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_7/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_9/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_10/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_10/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_12/example6_10/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_12/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_12/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_13/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/Main.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_14/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_14/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_15/example6_14/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_15/example6_14/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_16/example6_15/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_16/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_16/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_17/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_18/AddException.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_18/Person.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_18/Man.java" />
-        <option value="$PROJECT_DIR$/src/chapter06/example6_18/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_34/example8_33/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_34/Color.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_34/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_35/example8_34/Color.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_35/example8_34/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_35/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_36/example8_35/Color.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_36/example8_35/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_36/Sex.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_36/Member.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_36/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_39/example8_36/Member.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_39/Book.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_39/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_40/example8_39/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_40/Book.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_40/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_41/example8_33/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_41/MessageImpl.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_41/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_41/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_42/example8_41/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_42/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_42/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_43/example8_42/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_43/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_43/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_46/example8_43/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_46/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_47/example8_46/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_47/example8_46/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_47/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_49/example8_47/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_49/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_49/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_50/example8_49/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_50/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_50/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_51/example8_50/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_52/example8_51/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_52/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_51/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_51/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_53/example8_52/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_53/IMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_53/Book.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_53/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_54/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_55/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_56/TestDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter08/example8_57/TestDemo.java" />
       </list>
     </option>
   </component>
@@ -263,9 +273,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="339" />
+    <option name="x" value="327" />
     <option name="y" value="59" />
-    <option name="width" value="1385" />
+    <option name="width" value="1397" />
     <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -298,6 +308,40 @@
             </path>
             <path>
               <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
+              <item name="example8_54" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
+              <item name="example8_55" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
+              <item name="example8_56" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstCodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08" type="462c0819:PsiDirectoryNode" />
+              <item name="example8_57" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstCodeJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -320,18 +364,18 @@
       <recent name="chapter05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="chapter06.example6_18" />
-      <recent name="chapter06.example6_17" />
-      <recent name="chapter06.example6_14" />
-      <recent name="chapter06.example6_13" />
-      <recent name="chapter06.example6_10" />
+      <recent name="chapter08.example8_57" />
+      <recent name="chapter08.example8_56" />
+      <recent name="chapter08.example8_55" />
+      <recent name="chapter08.example8_54" />
+      <recent name="chapter08.example8_41" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/chapter06/example6_16" />
-      <recent name="$PROJECT_DIR$/src/chapter06/example6_15" />
-      <recent name="$PROJECT_DIR$/src/chapter06/example6_12" />
-      <recent name="$PROJECT_DIR$/src/chapter05/example5_21" />
-      <recent name="$PROJECT_DIR$/src/chapter04/example4_12" />
+      <recent name="$PROJECT_DIR$/src/chapter08/example8_53" />
+      <recent name="$PROJECT_DIR$/src/chapter08/example8_52" />
+      <recent name="$PROJECT_DIR$/src/chapter08/example8_51" />
+      <recent name="$PROJECT_DIR$/src/chapter08/example8_50" />
+      <recent name="$PROJECT_DIR$/src/chapter08/example8_49" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,7 +390,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDemo (3)">
+  <component name="RunManager" selected="Application.TestDemo (2)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -439,11 +483,11 @@
     <configuration name="TestDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter06.example6_15.example6_14.*" />
+          <option name="PATTERN" value="chapter08.example8_57.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter06.example6_15.example6_14.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter08.example8_57.TestDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -458,11 +502,11 @@
     <configuration name="TestDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter06.example6_18.*" />
+          <option name="PATTERN" value="chapter08.example8_56.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter06.example6_18.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter08.example8_56.TestDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -477,11 +521,11 @@
     <configuration name="TestDemo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter06.example6_14.*" />
+          <option name="PATTERN" value="chapter08.example8_53.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter06.example6_14.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter08.example8_53.TestDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -496,11 +540,11 @@
     <configuration name="TestDemo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter06.example6_16.*" />
+          <option name="PATTERN" value="chapter08.example8_54.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter06.example6_16.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter08.example8_54.TestDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -515,14 +559,14 @@
     <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chapter06.example6_17.*" />
+          <option name="PATTERN" value="chapter08.example8_55.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter06.example6_17.TestDemo" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="MAIN_CLASS_NAME" value="chapter08.example8_55.TestDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -537,18 +581,18 @@
       <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Demo (3)" />
       <item index="4" class="java.lang.String" itemvalue="Application.TestDemo (4)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TestDemo (2)" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TestDemo (5)" />
-      <item index="7" class="java.lang.String" itemvalue="Application.TestDemo" />
-      <item index="8" class="java.lang.String" itemvalue="Application.TestDemo (3)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestDemo (5)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TestDemo" />
+      <item index="7" class="java.lang.String" itemvalue="Application.TestDemo (3)" />
+      <item index="8" class="java.lang.String" itemvalue="Application.TestDemo (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestDemo (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestDemo (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestDemo (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestDemo (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDemo (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestDemo (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestDemo (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestDemo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -570,15 +614,15 @@
       <workItem from="1547603003412" duration="37167000" />
       <workItem from="1548042548115" duration="93753000" />
       <workItem from="1548756169391" duration="3109000" />
-      <workItem from="1550110205374" duration="24184000" />
+      <workItem from="1550110205374" duration="47528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162231000" />
+    <option name="totallyTimeSpent" value="185575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="339" y="59" width="1385" height="1049" extended-state="0" />
+    <frame x="327" y="59" width="1397" height="1049" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -589,13 +633,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26530612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17615467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16927665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16777532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -607,7 +652,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,75 +705,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_7/A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_33/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_11/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_11/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_12/example4_11/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_12/example4_11/B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_32/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HeadFirstCodeJava.iml">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_33/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_34/IMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_12/example4_11/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_33/IMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -737,18 +752,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/example5_20/Sex.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_34/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_11/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_34/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_35/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_35/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_36/example8_35/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_36/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_36/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_36/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_39/example8_36/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_39/example8_36/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_39/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_39/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -756,15 +862,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_9/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_40/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_40/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#60#104#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_41/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_9/B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_41/MessageImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#117#118#0" expanded="false" />
+            <element signature="e#175#176#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_41/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_41/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#109#110#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_42/MessageImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_42/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_42/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#100#0" expanded="false" />
+            <element signature="e#129#130#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_43/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_43/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#247#248#0" expanded="false" />
+            <element signature="e#321#322#0" expanded="false" />
+            <element signature="e#383#384#0" expanded="false" />
+            <element signature="e#410#411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_46/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_46/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -772,161 +987,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_9/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="76" lean-forward="false" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/example5_20/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="803" column="16" lean-forward="false" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-          <folding>
-            <element signature="e#7967#7968#0" expanded="true" />
-            <element signature="e#8013#8014#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/example5_21/Choose.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_47/IMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/example5_21/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_47/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter05/example5_21/Sex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_1/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_2/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/ArithmeticException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_3/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_5/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_6/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6016">
-          <caret line="645" column="17" lean-forward="false" selection-start-line="645" selection-start-column="17" selection-end-line="645" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding>
-            <element signature="e#26222#26223#0" expanded="true" />
-            <element signature="e#26265#26266#0" expanded="true" />
-            <element signature="e#26470#26471#0" expanded="true" />
-            <element signature="e#26528#26529#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#183#184#0" expanded="false" />
+            <element signature="e#234#235#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_7/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_49/IMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_9/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_49/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#100#0" expanded="false" />
+            <element signature="e#157#158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_50/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_74/TestDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="416">
+          <caret line="3097" column="32" lean-forward="false" selection-start-line="3097" selection-start-column="25" selection-end-line="3097" selection-end-column="32" />
+          <folding>
+            <element signature="e#117893#117894#0" expanded="false" />
+            <element signature="e#117955#117956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_50/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter04/example4_91/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_52/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_52/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_51/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_51/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_53/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_53/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_53/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_54/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -934,154 +1129,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_10/MyMath.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="70" lean-forward="false" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
+        <state relative-caret-position="418">
+          <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_10/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_12/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_12/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_13/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_15/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_15/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_14/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_14/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_16/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_16/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_17/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_55/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
-          <folding>
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/AddException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/Man.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_56/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter06/example6_18/TestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter08/example8_57/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>

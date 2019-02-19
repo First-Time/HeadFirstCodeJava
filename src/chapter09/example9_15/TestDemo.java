@@ -18,7 +18,7 @@ public class TestDemo {
         Thread t13 = new Thread(mt, "自己的线程对象M");
         Thread t14 = new Thread(mt, "自己的线程对象N");
         Thread t15 = new Thread(mt, "自己的线程对象O");
-        t10.setPriority(Thread.MAX_PRIORITY);
+        t10.setPriority(Thread.NORM_PRIORITY);
         t1.start();
         t2.start();
         t3.start();

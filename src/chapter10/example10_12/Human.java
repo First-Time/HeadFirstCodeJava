@@ -7,6 +7,7 @@ public class Human {
 
     @Override
     protected void finalize() throws Throwable {
+        super.finalize();
         System.out.println("活了250年，到时候了！");
         throw new Exception("此处即使抛出异常对象也不会产生任何影响!");
     }

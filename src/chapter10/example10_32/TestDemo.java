@@ -11,6 +11,5 @@ public class TestDemo {
         bt.add(new Book("Android开发实战经典", 89.9));
         Object obj[] = bt.toArray();
         System.out.println(Arrays.toString(obj));
-        
     }
 }

@@ -11,23 +11,23 @@ public class EchoServer {
         ServerSocket serverSocket = new ServerSocket(9999);
         System.out.println("等待客户端连接......");
         Socket socket = serverSocket.accept();
-        Scanner scanner = new Scanner(socket.getInputStream());
-        PrintStream printStream = new PrintStream(socket.getOutputStream());
+        Scanner in = new Scanner(socket.getInputStream());
+        PrintStream out = new PrintStream(socket.getOutputStream());
         boolean flag = true;
         while (flag) {
-            if (scanner.hasNext()) {
-                String clientStr = scanner.next();
+            if (in.hasNext()) {
+                String clientStr = in.next();
                 System.out.println(clientStr);
                 if (clientStr.equalsIgnoreCase("byebye")) {
-                    printStream.println("拜拜，下次再会！");
+                    out.println("拜拜，下次再会！");
                     flag = false;
                 } else {
-                    printStream.println("ECHO：" + clientStr);
+                    out.println("ECHO：" + clientStr);
                 }
             }
         }
-        printStream.close();
-        scanner.close();
+        out.close();
+        in.close();
         socket.close();
         serverSocket.close();
     }

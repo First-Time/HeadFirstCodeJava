@@ -8,12 +8,12 @@ import java.util.Scanner;
 
 public class EchoClient {
     public static void main(String[] args) throws IOException {
-        Socket socket = new Socket("localhost", 9999);
+        Socket clientSocket = new Socket("localhost", 9999);
         Scanner input = new Scanner(System.in);
-        Scanner scanner = new Scanner(socket.getInputStream());
-        PrintStream out = new PrintStream(socket.getOutputStream());
+        Scanner in = new Scanner(clientSocket.getInputStream());
+        PrintStream out = new PrintStream(clientSocket.getOutputStream());
         input.useDelimiter("\n");
-        scanner.useDelimiter("\n");
+        in.useDelimiter("\n");
         boolean flag = true;
         while (flag) {
             System.out.println("请输入要发送数据：");
@@ -23,14 +23,14 @@ public class EchoClient {
                 if (sendStr.equalsIgnoreCase("byebye")) {
                     flag = false;
                 }
-                if (scanner.hasNext()) {
-                    System.out.println(scanner.next());
+                if (in.hasNext()) {
+                    System.out.println(in.next());
                 }
             }
         }
         out.close();
         input.close();
-        scanner.close();
-        socket.close();
+        in.close();
+        clientSocket.close();
     }
 }

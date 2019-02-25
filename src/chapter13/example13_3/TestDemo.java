@@ -1,7 +1,6 @@
 package chapter13.example13_3;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class TestDemo {
     public static void main(String[] args) {
@@ -13,6 +12,5 @@ public class TestDemo {
         all.remove(new Book("Oracle开发实战经典", 89.8));
         all.add(null);
         System.out.println(all);
-        Stack
     }
 }

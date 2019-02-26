@@ -1,9 +1,9 @@
-package chapter13.example13_26;
+package chapter13.example13_31;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.function.Predicate;
 import java.util.stream.Stream;
 
 public class TestDemo {
@@ -14,8 +14,11 @@ public class TestDemo {
         all.add("www.yootk.com");
         all.add("www.mldn.com");
         all.add("www.mldn.com");
+        Predicate<String> p1 = s -> s.contains("yootk");
+        Predicate<String> p2 = s -> s.contains("mldn");
         Stream<String> stream = all.stream();
-        List<String> newList = stream.distinct().collect(Collectors.toList());
-        newList.forEach(System.out::println);
+        if (stream.anyMatch(p1.or(p2))) {
+            System.out.println("数据存在！");
+        }
     }
 }

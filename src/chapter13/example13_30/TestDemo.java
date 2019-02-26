@@ -1,9 +1,8 @@
-package chapter13.example13_26;
+package chapter13.example13_30;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class TestDemo {
@@ -15,7 +14,8 @@ public class TestDemo {
         all.add("www.mldn.com");
         all.add("www.mldn.com");
         Stream<String> stream = all.stream();
-        List<String> newList = stream.distinct().collect(Collectors.toList());
-        newList.forEach(System.out::println);
+        if (stream.anyMatch(s -> s.contains("yootk"))) {
+            System.out.println("数据存在！");
+        }
     }
 }

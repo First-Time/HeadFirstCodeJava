@@ -1,4 +1,4 @@
-package chapter13.example13_26;
+package chapter13.example13_27;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -15,7 +15,9 @@ public class TestDemo {
         all.add("www.mldn.com");
         all.add("www.mldn.com");
         Stream<String> stream = all.stream();
-        List<String> newList = stream.distinct().collect(Collectors.toList());
+        List<String> newList = stream.distinct()
+                .filter(s -> s.contains("t"))
+                .collect(Collectors.toList());
         newList.forEach(System.out::println);
     }
 }

@@ -4,10 +4,9 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.text.ParseException;
 
 public class TestDemo {
-    public static void main(String[] args) throws ParseException, IOException {
+    public static void main(String[] args) throws IOException {
         File file = new File(File.separator + "Users" + File.separator + "zinclee123" +
                 File.separator + "Desktop" + File.separator + "LYF" + File.separator + "Learning" +
                 File.separator + "Java" + File.separator + "第一行代码Java" + File.separator + "test" +
@@ -16,7 +15,7 @@ public class TestDemo {
             InputStream input = new FileInputStream(file);
             byte data[] = new byte[1024];
             int pos = 0;
-            int temp = 0;
+            int temp;
             while ((temp = input.read()) != -1) {
                 data[pos++] = (byte) temp;
             }

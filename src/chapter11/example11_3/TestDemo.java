@@ -2,12 +2,11 @@ package chapter11.example11_3;
 
 import java.io.File;
 import java.math.BigDecimal;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class TestDemo {
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args) {
         File file = new File(File.separator + "Users" + File.separator + "zinclee123" +
                 File.separator + "Desktop" + File.separator + "LYF" + File.separator + "Learning" +
                 File.separator + "Java" + File.separator + "第一行代码Java" + File.separator + "第一行代码Java.pdf");
